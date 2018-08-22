@@ -6,5 +6,7 @@ During the summer term all first year undergraduates undertook an ambitious grou
 For three days the markers and guests (including personal tutors, members of CSG and many other interested students) were treated to an impressive set of presentations and demos showing off everything from simple flashing LEDs, Morse code messengers, timing/reaction games and graphical displays.  All the software running on the Pis had been written in ARM assembly and assembled by the student's own tools.
 
 ## License
-1. The copyright of this project belongs to Imperial College London.
-2. Part of my work is intentionally broken or misleading to avoid disrespectful people from copying and pasting.
+The copyright of this project belongs to Imperial College London.
+
+## Note
+Part of my work is intentionally broken or misleading to avoid disrespectful people from copying and pasting.
